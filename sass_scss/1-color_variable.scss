@@ -1,13 +1,11 @@
-// Used Mixin
-@mixin text-color {
+// Declared the variable $primary-color: #3D3D3D
+
+$primary-color: #3D3D3D;
+
+body {
     color: #3D3D3D;
 }
 
-// Used Include
-body {
-    @include text-color();
-}
-
 p {
-    @include text-color();
+    color: #3D3D3D;
 }
