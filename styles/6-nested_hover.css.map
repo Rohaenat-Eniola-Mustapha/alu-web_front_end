@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"6-nested_hover.css"}
+{"version":3,"sources":["../sass_scss/6-nested_hover.scss","6-nested_hover.css"],"names":[],"mappings":"AAMA;EACI,cAAA;ACLJ;ADOI;EACI,cAAA;ACLR","file":"6-nested_hover.css"}
