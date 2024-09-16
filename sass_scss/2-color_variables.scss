@@ -1,0 +1,17 @@
+// Declared the variable text-color and body-color
+
+$text-color: #3D3D3D;
+$body-color: #6D6D6D;
+
+body {
+    background-color: $body-color;
+    color: $text-color;
+}
+
+p {
+    color: $text-color;
+}
+
+h2 {
+    background-color: $body-color;
+}
