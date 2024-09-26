@@ -374,6 +374,11 @@ ul.row {
 }
 
 /* Section HERO */
+.section-hero {
+    position: relative;
+    margin-top: -8.5rem;
+}
+
 .section-hero .section-inner {
     position: relative;
     margin-top: -8.5rem;
