@@ -13,8 +13,8 @@
             let firstnameValue = document.getElementById("firstname").value;
             let emailValue = document.getElementById("email").value;
             /* create 2 cookies */
-            document.cookie = "firstname=" + firstnameValue;
-            document.cookie = "email=" + emailValue;
+            document.cookie = "firstname=" + firstnameValue + "; expires=864000"; // expires in ten days
+            document.cookie = "email=" + emailValue + "; expires=864000"; // expires in ten days
             alert('Cookies Set!');
         }
 
